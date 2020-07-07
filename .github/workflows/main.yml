@@ -1,6 +1,6 @@
-	jobs:
+jobs:
 	
-	  build:
+	build:
 	
 	    name: Hello world action
 	
@@ -12,6 +12,6 @@
 	
 	      - uses: ./action-a
 	
-	        with:
+	       with:
 	
-          MY_NAME: "Mona"
+          	MY_NAME: "Mona"
